@@ -1,0 +1,15 @@
+{
+  "name": "com.sallywuzhere.unitykun",
+  "version": "1.0.0",
+  "displayName": "UnityKun",
+  "description": "Unity-kun character model with materials, textures, MToon shader, and prefab.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": [
+    "character",
+    "model",
+    "vrm",
+    "mtoon",
+    "anime"
+  ]
+}
